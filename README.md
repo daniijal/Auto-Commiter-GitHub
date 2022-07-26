@@ -1,3 +1,7 @@
+# About My Project
+
+    With this project, you can automatically commit to your project as many times as you want
+    
 # auto committer Github
 
 Follow the steps below to use this repository:
