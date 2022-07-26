@@ -1,6 +1,6 @@
 # About My Project:thinking:
 
-    With this project, you can automatically commit to your project as many times as you want:partying_face:
+   With this project, you can automatically commit to your project as many times as you want:partying_face:
     
 # auto committer Github
 
