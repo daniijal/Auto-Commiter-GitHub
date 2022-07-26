@@ -3,7 +3,7 @@
    With this project, you can automatically commit to your project
    as many times as you want:partying_face:
    
-   You can do this in a private readme file so it's not public:bulb:
+   :warning:You can do this in a private readme file so it's not public:warning:
     
 # auto committer Github
 
