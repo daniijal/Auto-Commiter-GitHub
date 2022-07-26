@@ -1,4 +1,4 @@
-# About My Project
+# About My Project:thinking:
 
     With this project, you can automatically commit to your project as many times as you want
     
